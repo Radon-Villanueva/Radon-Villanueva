@@ -1,7 +1,6 @@
-### Hi there 👋
 
-# hello-world
-It's ME
+## hello-world
+It's ME👋
 
 <h1 align="center">Hi 👋, I'm Jimmy Radon</h1>
 <h3 align="center">A part time AI enthusiast and full time introvert</h3>
